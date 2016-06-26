@@ -1,3 +1,6 @@
+These are the requirements for the week1 assignement fro the scala coursera course Functional Programming Principles in Scala https://www.coursera.org/learn/progfun1 
+
+
 #Mechanics
 
 Download the recfun.zip handout archive file and extract it somewhere on your machine.
