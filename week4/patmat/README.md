@@ -1,4 +1,4 @@
-#Coursera: Week 4
+#Coursera: Week 4 Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne
 
 
 A Huffman code can be represented by a binary tree whose leaves represent the characters that should be encoded. The code tree below can represent the characters A to H.
